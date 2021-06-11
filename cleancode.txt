@@ -1,0 +1,5 @@
+KISS   :    Keep It Simple Stupid
+DRY    :    Don’t Repeat Yourself
+YAGNI  :   You Aren’t Gonna Need It
+SOLID  :   Single responsibility , Open-closed , Liskov substitution ,  Interface Segregation , Dependency inversion.
+SoC     :    Separation of Concerns
